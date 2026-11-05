@@ -3,3 +3,5 @@ la commande pour cloner est : git clone suivi du lien du repository
 les trois commandes de push sont : git push 
 git push -u origin <nom-de-la-branche> 
 git push origin --delete <nom-de-la-branche>
+
+pour pull = git pull
